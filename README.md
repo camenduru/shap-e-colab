@@ -10,3 +10,4 @@
 
 ### Main Repo
 https://github.com/openai/shap-e
+https://huggingface.co/spaces/hysts/Shap-E/tree/main modified
