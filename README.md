@@ -14,6 +14,9 @@
 https://github.com/openai/shap-e <br />
 https://huggingface.co/spaces/hysts/Shap-E/tree/main <br />
 
+### Paper
+https://arxiv.org/abs/2305.02463
+
 ### Output
 <table><tbody><tr><td><center>
 <br>
